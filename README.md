@@ -1,7 +1,17 @@
 ## Hi there 👋
 
+Data Analyst with commercial experience in retail and e-commerce.
 
-- 🎯 I really like to explore different datasets and
-really want to develop professionally in analytics.
-- 📚 I’m currently learning Python, SQL, ML
-- 💻 My work experience: more than 3 years in the field of financial markets and more than 10 months of training experience in data analysis
+🔹 SQL | Python | PostgreSQL | Power BI
+
+🔹 Sales & Inventory Analytics
+
+🔹 Reporting Automation
+
+🔹 Dashboards & Data Visualization
+
+🔹 Statistical Analysis & A/B Testing
+
+🔹 System Analysis (API, UML, BPMN)
+
+Currently exploring Product Analytics, Data Science and Machine Learning.
